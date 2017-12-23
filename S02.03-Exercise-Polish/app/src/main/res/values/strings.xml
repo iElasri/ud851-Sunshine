@@ -26,6 +26,7 @@
 
     <!--Used in overflow menu to refresh weather data-->
     <string name="action_refresh">Refresh</string>
+    <string name="error_message">Failed !!!</string>
 
     <!--TODO (1) Add a string resource for your error message-->
 
